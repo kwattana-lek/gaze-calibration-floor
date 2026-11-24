@@ -9,6 +9,10 @@ corruption simulator, the detectors, all experiment drivers, the statistical ana
 **no data**: the gaze datasets must be obtained from their providers under their own licences, and the trained
 checkpoints and per-frame record files are released separately (see *Checkpoints and records*).
 
+## Licence
+
+Code: MIT (see `LICENSE`). Datasets and third-party checkpoints remain under their providers' licences.
+
 ## Layout
 
 | path | contents |
