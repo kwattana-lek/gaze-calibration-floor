@@ -190,3 +190,4 @@ licensees can regenerate them with the drivers above.
 | `scripts/train_detector.py` | Learned calibration-quality detector — the reframed contribution. |
 | `src/cqs.py` | Calibration Quality Score (CQS) |
 | `src/config.py` | CQS parameters (to be calibrated in Phase 3) |
+| `label_noise/revision_2026-11/scripts/make_graphical_abstract.py` | Graphical abstract: pooled leave-one-out ROC-AUC against δ/ê for accuracy levels L0–L3 (from `sigma_sweep_records.jsonl`). |
