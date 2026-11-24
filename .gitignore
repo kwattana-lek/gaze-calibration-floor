@@ -1,0 +1,15 @@
+# no data, checkpoints or record files in this repository
+data/
+models*/
+experiments/
+*.pt
+*.pth
+*.npz
+*.npy
+*.h5
+*.jsonl
+*.zip
+**/results/
+**/logs/*.log
+__pycache__/
+.DS_Store
